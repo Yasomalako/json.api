@@ -7,5 +7,11 @@
     "birthDate":"2/2/2000",
     "grades":[]
     
+},
+{"name":"Netanel",
+    "lastname":"Kobalas",
+    "isExist":true,
+    "birthDate":"2/2/2000",
+    "grades":[]
 }
 ]}
