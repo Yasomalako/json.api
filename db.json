@@ -1,17 +1,340 @@
-{ "Students":[
-
 {
-    "name":"Yaso",
-    "lastname":"malak",
-    "isExist":true,
-    "birthDate":"2/2/2000",
-    "grades":[]
-    
-},
-{"name":"Netanel",
-    "lastname":"Kobalas",
-    "isExist":true,
-    "birthDate":"2/2/2000",
-    "grades":[]
+    "Students": [
+        {
+            "name": "Usas",
+            "lastname": "Lsam",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050722006",
+            "birthDate": "2/2/2000",
+            "grades": []
+        },
+        {
+            "name": "Hfdma",
+            "lastname": "Teffhhs",
+            "isExist": true,
+            "age": 4,
+            "perentsPhonenumber": "050554006",
+            "birthDate": "2/6/2000",
+            "grades": []
+        },
+        {
+            "name": "Gdfg",
+            "lastname": "Kffgas",
+            "isExist": true,
+            "age": 4,
+            "perentsPhonenumber": "0506053406",
+            "birthDate": "2/5/2000",
+            "grades": []
+        },
+        {
+            "name": "Tyfs",
+            "lastname": "Nwds",
+            "isExist": true,
+            "age": 4,
+            "perentsPhonenumber": "052326006",
+            "birthDate": "8/2/2000",
+            "grades": []
+        },
+        {
+            "name": "Sfdsf",
+            "lastname": "Rwew",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "0552236006",
+            "birthDate": "2/6/2000",
+            "grades": []
+        },
+        {
+            "name": "TWeeeg",
+            "lastname": "Hwwe",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "0505525006",
+            "birthDate": "2/2/2000",
+            "grades": []
+        },
+        {
+            "name": "Tewwe",
+            "lastname": "Twwee",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050604242",
+            "birthDate": "2/2/2000",
+            "grades": []
+        },
+        {
+            "name": "Osjja",
+            "lastname": "Kobalas",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050525326",
+            "birthDate": "6/3/2000",
+            "grades": []
+        },
+        {
+            "name": "TWttwgsv",
+            "lastname": "Kdasd",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050233006",
+            "birthDate": "7/6/2004",
+            "grades": []
+        },
+        {
+            "name": "Sdasd",
+            "lastname": "Ckas",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "050252556",
+            "birthDate": "2/5/2004",
+            "grades": []
+        },
+        {
+            "name": "Waknsk",
+            "lastname": "Hsjaj",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "05052206",
+            "birthDate": "2/7/2007",
+            "grades": []
+        },
+        {
+            "name": "Oamsj",
+            "lastname": "Ponal",
+            "isExist": true,
+            "age": 8,
+            "perentsPhonenumber": "050652006",
+            "birthDate": "2/5/2004",
+            "grades": []
+        },
+        {
+            "name": "Nuaja",
+            "lastname": "Jasos",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "05236006",
+            "birthDate": "2/9/2020",
+            "grades": []
+        },
+        {
+            "name": "Nskael",
+            "lastname": "Kksas",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "050236006",
+            "birthDate": "2/5/2020",
+            "grades": []
+        },
+        {
+            "name": "TWwt",
+            "lastname": "Kwwttw",
+            "isExist": true,
+            "age": 4,
+            "perentsPhonenumber": "05026006",
+            "birthDate": "2/2/2000",
+            "grades": []
+        },
+        {
+            "name": "Aasa",
+            "lastname": "Kobalas",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050602206",
+            "birthDate": "2/4/2000",
+            "grades": []
+        },
+        {
+            "name": "Weasa",
+            "lastname": "Kobalas",
+            "isExist": true,
+            "age": 4,
+            "perentsPhonenumber": "050355006",
+            "birthDate": "4/4/2000",
+            "grades": []
+        },
+        {
+            "name": "Ddad",
+            "lastname": "Sasa",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "050223206",
+            "birthDate": "6/5/2000",
+            "grades": []
+        },
+        {
+            "name": "Rdad",
+            "lastname": "Daada",
+            "isExist": true,
+            "age": 8,
+            "perentsPhonenumber": "050602406",
+            "birthDate": "6/5/2000",
+            "grades": []
+        },
+        {
+            "name": "Ewwew",
+            "lastname": "Ddwwwwe",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "050232306",
+            "birthDate": "2/2/2000",
+            "grades": []
+        },
+        {
+            "name": "Osjja",
+            "lastname": "Kobalas",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "050623233",
+            "birthDate": "2/2/2000",
+            "grades": []
+        },
+        {
+            "name": "kdlaa",
+            "lastname": "Kdasd",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050223306",
+            "birthDate": "7/6/2004",
+            "grades": []
+        },
+        {
+            "name": "Sdasd",
+            "lastname": "Ckas",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "05332206",
+            "birthDate": "2/5/2004",
+            "grades": []
+        },
+        {
+            "name": "Waknsk",
+            "lastname": "Hsjaj",
+            "isExist": true,
+            "age": 6,
+            "perentsPhonenumber": "050333306",
+            "birthDate": "24/7/2007",
+            "grades": []
+        },
+        {
+            "name": "Ofaa",
+            "lastname": "Pfas",
+            "isExist": true,
+            "age": 3,
+            "perentsPhonenumber": "050222306",
+            "birthDate": "8/7/2004",
+            "grades": []
+        },
+        {
+            "name": "Nufas",
+            "lastname": "Afsa",
+            "isExist": true,
+            "age": 8,
+            "perentsPhonenumber": "050223326",
+            "birthDate": "2/9/2020",
+            "grades": []
+        },
+        {
+            "name": "Nfsa",
+            "lastname": "Adss",
+            "isExist": true,
+            "age": 5,
+            "perentsPhonenumber": "050442206",
+            "birthDate": "2/4/2020",
+            "grades": []
+        }
+    ],
+
+    "Teachers":[
+        {
+            "name": "Tdas",
+            "lastname": "Fsds",
+            "isExist": true,
+            "age": 22,
+            "perentsPhonenumber": "05047706",
+            "birthDate": "2/4/2000",
+            "grades": []
+        },
+        {
+            "name": "Gassa",
+            "lastname": "Llika",
+            "isExist": true,
+            "age": 19,
+            "perentsPhonenumber": "05045606",
+            "birthDate": "2/4/2001",
+            "grades": []
+        },
+        {
+            "name": "Grsar",
+            "lastname": "Hasfbx",
+            "isExist": true,
+            "age": 30,
+            "perentsPhonenumber": "050479644",
+            "birthDate": "2/4/1990",
+            "grades": []
+        },
+        {
+            "name": "Tdas",
+            "lastname": "Fsds",
+            "isExist": true,
+            "age": 32,
+            "perentsPhonenumber": "050878795",
+            "birthDate": "6/6/1992",
+            "grades": []
+        },
+        {
+            "name": "Csasd",
+            "lastname": "Xasd",
+            "isExist": true,
+            "age": 22,
+            "perentsPhonenumber": "050756682",
+            "birthDate": "2/6/2000",
+            "grades": []
+        },
+        {
+            "name": "Ssaias",
+            "lastname": "Weds",
+            "isExist": true,
+            "age": 90,
+            "perentsPhonenumber": "050455806",
+            "birthDate": "2/4/1930",
+            "grades": []
+        },
+        {
+            "name": "Vass",
+            "lastname": "Sdda",
+            "isExist": true,
+            "age": 55,
+            "perentsPhonenumber": "050411256",
+            "birthDate": "2/4/1970",
+            "grades": []
+        },
+        {
+            "name": "Dsda",
+            "lastname": "Casd",
+            "isExist": true,
+            "age": 20,
+            "perentsPhonenumber": "050477854",
+            "birthDate": "2/4/2002",
+            "grades": []
+        },
+        {
+            "name": "Zsas",
+            "lastname": "Asad",
+            "isExist": true,
+            "age": 26,
+            "perentsPhonenumber": "05085206",
+            "birthDate": "2/4/1995",
+            "grades": []
+        },
+        {
+            "name": "Casdasa",
+            "lastname": "Xsafaa",
+            "isExist": true,
+            "age": 35,
+            "perentsPhonenumber": "05047706",
+            "birthDate": "2/4/1990",
+            "grades": []
+        }
+    ]
 }
-]}
